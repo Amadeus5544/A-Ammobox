@@ -6,6 +6,7 @@ A fileok közt szerepelnek az inventoríhoz kellő item képek.
 
 #use
 
-1. Húzd a mappát a resource mappába.
-2. nyisd meg a server.cfg-t és írd indítóra ( ensure A-Ammobox )
-3. indítsd újra a szervert.
+1. hozd létre az itemeket az sql-ben
+2. Húzd a mappát a resource mappába.
+3. nyisd meg a server.cfg-t és írd indítóra ( ensure A-Ammobox )
+4. indítsd újra a szervert.
