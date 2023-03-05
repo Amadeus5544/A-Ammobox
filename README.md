@@ -4,7 +4,7 @@ A script lehetővé teszi hogy kinyissuk a töltényás dobozokat, a dobozokban 
 
 A fileok közt szerepelnek az inventoríhoz kellő item képek.
 
-##use
+#use
 
 1. Húzd a mappát a resource mappába.
 2. nyisd meg a server.cfg-t és írd indítóra ( ensure A-Ammobox )
