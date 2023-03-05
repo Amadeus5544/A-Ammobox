@@ -10,3 +10,4 @@ A fileok közt szerepelnek az inventoríhoz kellő item képek.
 2. Húzd a mappát a resource mappába.
 3. nyisd meg a server.cfg-t és írd indítóra ( ensure A-Ammobox )
 4. indítsd újra a szervert.
+ probléma esetén keress fel! Discord: Amadeus#9366
